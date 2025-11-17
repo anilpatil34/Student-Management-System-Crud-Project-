@@ -37,5 +37,5 @@ This project is perfect for beginners who want to understand:
 
 ---
 
-## 📁 Project Structure
+
 
