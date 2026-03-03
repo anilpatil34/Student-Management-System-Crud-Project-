@@ -1,6 +1,6 @@
-# 🎓 Students Management System – Django CRUD Project
+# 🎓 Students Management System 
 
-A simple and fully functional **Student Management System** built using **Python Django**, implementing complete **CRUD operations** such as: 
+---- Python & Django based MVT Architecture Project
 
 - ➕ Add New Student
 - 📄 View Student Records
