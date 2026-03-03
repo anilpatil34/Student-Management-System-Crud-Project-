@@ -1,13 +1,13 @@
-# 🎓 Student Management System – Django CRUD Project
+# 🎓 Students Management System – Django CRUD Project
 
-A simple and fully functional **Student Management System** built using **Python Django**, implementing complete **CRUD operations** such as:
+A simple and fully functional **Student Management System** built using **Python Django**, implementing complete **CRUD operations** such as: 
 
 - ➕ Add New Student
 - 📄 View Student Records
 - ✏ Update Student Details
 - ❌ Delete Student Records
 
-This project is perfect for beginners who want to understand:
+This project is perfect for beginners who want to understand: 
 - Django models
 - Django views (function-based views)
 - Forms handling
